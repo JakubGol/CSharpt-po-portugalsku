@@ -18,7 +18,7 @@ namespace CSharpt_po_portugalsku
             Console.ReadKey();
 
         }
-
+        // a nice komentarz
         static void somar() { }
         static void SOMAR() { }
     }
