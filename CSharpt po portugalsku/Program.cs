@@ -10,6 +10,16 @@ namespace CSharpt_po_portugalsku
     {
         static void Main(string[] args)
         {
+            int valor1 = 0;
+            int VALOR1 = 2;
+            int vAlor1 = 3;
+            int resultado = valor1 + VALOR1;
+            Console.WriteLine(resultado);
+            Console.ReadKey();
+
         }
+
+        static void somar() { }
+        static void SOMAR() { }
     }
 }
