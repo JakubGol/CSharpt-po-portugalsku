@@ -20,6 +20,7 @@ namespace CSharpt_po_portugalsku
         }
         // a nice komentarz
         // another one
+        // Michal to the besciak!
         static void somar() { }
         static void SOMAR() { }
     }
