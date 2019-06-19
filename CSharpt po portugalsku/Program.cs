@@ -21,6 +21,7 @@ namespace CSharpt_po_portugalsku
         // a nice komentarz
         // another one
         // Michal to the besciak!
+        // Nie ma lepszego od Michala Xamperskiego!
         static void somar() { }
         static void SOMAR() { }
     }
